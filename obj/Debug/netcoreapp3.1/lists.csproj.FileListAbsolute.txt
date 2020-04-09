@@ -1,0 +1,11 @@
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\obj\Debug\netcoreapp3.1\lists.csprojAssemblyReference.cache
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\obj\Debug\netcoreapp3.1\lists.AssemblyInfoInputs.cache
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\obj\Debug\netcoreapp3.1\lists.AssemblyInfo.cs
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\bin\Debug\netcoreapp3.1\lists.exe
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\bin\Debug\netcoreapp3.1\lists.deps.json
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\bin\Debug\netcoreapp3.1\lists.runtimeconfig.json
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\bin\Debug\netcoreapp3.1\lists.runtimeconfig.dev.json
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\bin\Debug\netcoreapp3.1\lists.dll
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\bin\Debug\netcoreapp3.1\lists.pdb
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\obj\Debug\netcoreapp3.1\lists.dll
+C:\users\tilly\Documents\Swinburne\Anhs class\lists\obj\Debug\netcoreapp3.1\lists.pdb
